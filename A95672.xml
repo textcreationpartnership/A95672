@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Testimony of love, in tender advice and counsel, to all young men, and others, who profess the truth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95672</idno>
+            <idno type="STC">Wing T816</idno>
+            <idno type="STC">ESTC R184975</idno>
+            <idno type="EEBO-CITATION">45578467</idno>
+            <idno type="OCLC">ocm 45578467</idno>
+            <idno type="VID">172381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Testimony of love, in tender advice and counsel, to all young men, and others, who profess the truth.</title>
+                  <author>Ingram, William, fl. 1685.</author>
+                  <author>Devonshire House Monthly Meeting (Society of Friends)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Ingram, William Crouch, Richard Whitpane, Gilbert Mace. Devonshire-House Monthly-Meeting, the 8th of the 5th month, 1685.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <head>A Teſtimony of LOVE, in tender Advice and Counſel, to all Young Men, and others, who profeſs the Truth.</head>
+            <opener>
+               <salute>DEAR FRIENDS,</salute>
+            </opener>
+            <p>WE, whom God hath raiſed in the Morning of his Day, to be a Kind of firſt Fruits unto himſelf, do, in a living Senſe of the Truth, and in a true Reſpect to the Proſperity and Glory of it, tenderly adviſe young Men, and others, who are of late Convincement, that you uſe all Diligence and Circumſpection in your ſeveral Places and Callings, in Converſation and Practice, to anſwer that holy Principle, which in Words you do profeſs, and eſpecially to beware of a falſe Liberty, which ſome take to themſelves, that Truth allows not of, particularly that of <hi>faſhioning according to the Courſe and Cu<g ref="char:EOLhyphen"/>ſtom of this World,</hi> which creates a great Offence unto many, who are apt to conclude there is no Stability among us, more than in other Profeſſions, when they ſee how ſeveral conform to, and let in Superfluity, Curioſity, and Coſtlineſs in Habit and Apparel, which evidently beſpeak the Vanity of ſuch Minds, and become not Men really profeſſing God<g ref="char:EOLhyphen"/>lineſs, <hi>whoſe Adorning is, and always was, inward, in the hidden Man, in the Heart;</hi> and, bleſſed be God, many are ſettled down in the Senſe of it, not being ſub<g ref="char:EOLhyphen"/>ject to alter and change, but daily denying themſelves, take up the Croſs to all outward and periſhing Things, and being ſteadfaſt in the Faith, become Examples of Righte<g ref="char:EOLhyphen"/>ouſneſs, Gravity, and Sincerity, unto others; ſome of whom, through Careleſneſs and Negligence, have cooled their Affections and Love to the Truth, whereby they become weak, and grow into a feeble State; ſometimes put on gay Cloathing, with ſumptuous and coſtly Array, ſuch as many of us, for Truth's Sake, have denied and put off, which, as it is a Stumbling-Block to thoſe that are without, ſo an Exerciſe and Grief to us, who are concerned for the Lord, whoſe Power and Spirit hath mightily wrought in us, to ſub<g ref="char:EOLhyphen"/>due and bring under the carnal Mind, with its Aſſections and Luſts, which, in the weigh<g ref="char:EOLhyphen"/>ty and ſerious Life, we exhort you to watch againſt, and ſuffer not that, which is unſa<g ref="char:EOLhyphen"/>voury and corrupt, to ariſe, nor give Place to it; but by the Spirit reſiſt every Appearance of Evil, and dwell in the ſeaſoning Power, that ye may be as the Salt of the Earth, <hi>and Lights to the World, that they, ſeeing your good Works, and orderly Converſation, may glorify your Father, who is in Heaven.</hi>
+            </p>
+            <p>And, Friends, our further Advice and Counſel to you is, that you keep inward with the Lord, and out of the Hurries and Buſtles that are in the World, which we ought not to be concerned in, who are ſeeking for an heavenly Kingdom, and Immortality, and Glo<g ref="char:EOLhyphen"/>ry, far tranſcending the Splendor and Luſtre of this World, which <hi>Chriſt</hi> ſaid his King<g ref="char:EOLhyphen"/>dom was not of; but conſiſts in Righteouſneſs and Peace, in which peaceable Spirit of Righteouſneſs we deſire all may be found, and not be buſied in Matters relating to outward Government and Rule, which belong not to us, but are for ſuch on whom it pleaſeth God them to beſtow: wherefore we caution all to be careful, that no real Occaſion be given, by Words or Actions, for any to be eſteemed as Buſy-Bodies on that Account; but be ye ſervent with the Lord, and ſtrong in the Power of his Might, as good Soldiers of <hi>Chriſt,</hi> to indure Hardſhips; ſuffer, not as evil Doers, but for the Teſtimony of Faith,
+<pb facs="tcp:172381:2"/>
+               <!-- PDF PAGE 60 -->
+and a good Conſcience towards God, and the Crown immortal you ſhall receive, which is laid up, not only for us, who are at preſent tribulated and afflicted for Righteouſneſs Sake, but for all them that love the Appearance of our Lord <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>So, to the Word of his Grace, we commend you all for further Counſel and Direction, and, with the tender Salutation of our Love, reſt,</p>
+            <closer>
+               <signed>Your Friends and Brethren in the bleſſed Truth. 
+<list>
+                     <item>William Ingram</item>
+                     <item>William Crouch</item>
+                     <item>Richard Whitpane</item>
+                     <item>Gilbert Mace.</item>
+                  </list>
+               </signed>
+               <dateline>Devonſhire-Houſe Monthly-Meeting, <date>the 8th of the 5th Month, 1685.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
